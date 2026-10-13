@@ -30,5 +30,8 @@ The developer shall not be liable for any indirect, incidental, or consequential
 7.Termination
 If you violate this agreement, your license may be terminated.
 
+
+
+
 Governing Law
 8.This agreement shall be governed by the laws of Nigeria.
